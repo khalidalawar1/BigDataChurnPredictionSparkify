@@ -17,7 +17,7 @@ As part of the Udacity's Data Science Nano Degree, I have built several real wor
 In this project, the problem statement is to predict the churning of users whom use streaming service of a fictional company called "Sparkify". At Sparkify, there is a dataset totaling 12GB of event logs where a small subset of 128MB was taken to allow us work on exploring the dataset and building a model that can later be deployed on the cloud (such as AWS EMR). Identifying and analyzing churn is a common and important task for data scientist to be aware of. For a company like Sparkify to predict potentially churning users can allow them to take the effort to retain those users and therefore saving revenue which would otherwise be very difficult to generate.
 
 # File Descriptions
-This project has a note called `Sparkify.ipynb` that contained all the workings and a dataset file `mini_sparkify_event_data.json`.
+This project has a note called `Sparkify.ipynb` that contained all the workings and a dataset file `mini_sparkify_event_data.json` is 128MB large and can be [found here](https://www.dropbox.com/s/kaq9jkxaghiouji/mini_sparkify_event_data.json?dl=0).
 
 # Results
 The results of this finding can be viewed on [this medium post](https://khalidalawar1.medium.com/big-data-churn-prediction-with-pyspark-339e1681c373)
